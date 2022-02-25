@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3aeD6f47BdC5972a53551c1877965bF06Bd97128",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x3aed6f47bdc5972a53551c1877965bf06bd97128",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Invisible Toadz NFT",
+  "SYMBOL": "iToadz",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 33000000000000000000,
+  "DISPLAY_COST": 0.033,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/invisibletoadz",
+  "SHOW_BACKGROUND": true
+}
